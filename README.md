@@ -1,2 +1,3 @@
-# tabs
-This is the follow-up lessons on Code-15-React-projects
+#### IN ACTION
+
+[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
